@@ -11,10 +11,20 @@ public class MovingAround : MonoBehaviour
     {
         float hor = Input.GetAxis("Horizontal");
         float vert = Input.GetAxis("Vertical");
-
         if (hor != 0 || vert != 0)
         {
-            player.position += new Vector3(0.1f * hor, 0.1f * vert, 0);
+            
+            if (Input.GetKeyDown(KeyCode.LeftShift))
+            {
+                player.position += new Vector3(0.2f * hor, 0.2f * vert, 0);
+            }   
+            else
+            {
+                player.position += new Vector3(0.1f * hor, 0.1f * vert, 0);
+            }
+            
+            
+            
         }
     }
 }
