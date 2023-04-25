@@ -14,14 +14,9 @@ public class MovingAround : MonoBehaviour
         if (hor != 0 || vert != 0)
         {
             
-            if (Input.GetKeyDown(KeyCode.LeftShift))
-            {
-                player.position += new Vector3(0.2f * hor, 0.2f * vert, 0);
-            }   
-            else
-            {
-                player.position += new Vector3(0.1f * hor, 0.1f * vert, 0);
-            }
+            
+            player.position += new Vector3(0.02f * hor, 0.02f * vert, 0);
+            
             
             
             
