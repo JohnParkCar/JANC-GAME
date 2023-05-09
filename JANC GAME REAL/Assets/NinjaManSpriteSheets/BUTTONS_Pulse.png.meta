@@ -1,0 +1,3357 @@
+fileFormatVersion: 2
+guid: 05c831881fcf2fb4bb156024b5af6e8a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 973
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59580e503d41584084fc86d98db5d3d
+      internalID: -2006351602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 973
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055ec09cc44a48440aadcbf69ec9d305
+      internalID: 2102606709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 973
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28f1bea2a6d9d44e9028fbfadd95f1a
+      internalID: 1219402600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 973
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d7763c559ddf74f87761d7db809931
+      internalID: 1601722018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 973
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2543d1f3762afc843b12b9fdee92d08f
+      internalID: 862329596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 973
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693dea996979dbf4aaf94c0fb2c80607
+      internalID: -1132423183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 973
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bd61d003932a340b5c184792f03422
+      internalID: 131588946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 973
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7084ca62ea3f5841ab3d13025f582e6
+      internalID: 1805759449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 973
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e3f55bcdfc75b4bab5d97876224595
+      internalID: 1245575980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 973
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de923b6fbe834f45a9dfb173e11e2a8
+      internalID: -1166593359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 922
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c8a2b33460fea498ffd796cc8b40f5
+      internalID: -2034220526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 922
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35eb2fa196780a4da5d04ef982b3060
+      internalID: -1242313651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 922
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d9b9788776ddd4a85b5179fbb174de
+      internalID: -79121211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 922
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7765a1066d3b4544989040a2fe6019af
+      internalID: -345887201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 922
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1194f258409ee8546bcfdb27a233a5d3
+      internalID: -595100995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 922
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec44a11769c8004b96b0a9d107ec9a4
+      internalID: -1926952356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 922
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20beb2ae51e5954d95f5ab4d54f2494
+      internalID: -1885836058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 922
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b956177ff6fbf49ace50cca79a1604
+      internalID: 1528953714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_18
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 922
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4b8a3ce85260d40aafabe7ef9469e6
+      internalID: -33130481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 922
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb992388b1558d947b756b831656a045
+      internalID: 918065234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 871
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e726f682d2c6764449f75d82132a9c2f
+      internalID: 630901678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 871
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc42d079cc47e149883a17f2e42962b
+      internalID: 601355933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 871
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73157825f20c8b04891fbdc1bc18a048
+      internalID: -516940585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 871
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7221f681a6fa414e90df42425901ea2
+      internalID: -189510777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 871
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97e44ededcc0dd449acc5a1aa8f9fd7
+      internalID: 167846643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 871
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facb1945793b35b4292507cc90e6e461
+      internalID: -1975032969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 871
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffef2eee8c8118418e77541ef33dfa5
+      internalID: -1642010362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 871
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19efef5a3d2eeed42baf1e5adaff8ff5
+      internalID: -273579367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 871
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276a0af73b9120e48b864574eb0aa8e2
+      internalID: -428363193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 871
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df3a063849d9e44bb421afd4e0da658
+      internalID: -503922994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 820
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d205cfd5adaa5e146b2e3bfa5daf1b5c
+      internalID: -1797451880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 820
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8e58ceb4526464baece63eb224b31b
+      internalID: 1636774826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 820
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01d8fb3facbbef4c9daefb0da8ae791
+      internalID: -494538840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 820
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3661bdc591f83c441a551854d54845a7
+      internalID: -364364122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 820
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46969001449552142957f8c218fc7a1c
+      internalID: 299766299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_35
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 820
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e91a1c425558d043a4b1d5a50bbe2b3
+      internalID: -1737847723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 820
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3244e2b3b3c8d61479845b4ab1f4b9ec
+      internalID: 2146258564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_37
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 820
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da57ea1e329c0c3468452122a76cc44f
+      internalID: -1381200914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_38
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 820
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243f0d25abdff48438f24d880b9fc513
+      internalID: -788005449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_39
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 820
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81b3ba3f956630418d01eea4d12d73a
+      internalID: 1473745993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 769
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc131bef7cac5f04aa901dbcbfe91370
+      internalID: 695431735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 769
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8b7703b17664644b44282aca01f196
+      internalID: 709734566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 769
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b571af51e7bbee4a9c61ad737d5cd5c
+      internalID: -10910677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 769
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b135fa3d646be4f81b69c18d490d34
+      internalID: -191346468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 769
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8373f9e26fd36d34fa81382ce40291f7
+      internalID: 1639584107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 769
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e844f6601b38b4388376f4be337b44
+      internalID: -1538396985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 769
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85baf5bd5d9e844197d4e875ade88d9
+      internalID: 554986249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 769
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef78158c90ffaf14cbf8d3ae4ac2a300
+      internalID: 719280823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_48
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 769
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3675ece5ff9364d4a9c9273dbc8cac2e
+      internalID: 1595114577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_49
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 769
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f29f5fd5fd90e84d9073646dd4202a3
+      internalID: 1130824614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 718
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b62a6538e294e4ab98e9ba1e12c602
+      internalID: -991315678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 718
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb32f56a546aa4d478807c63f65872b0
+      internalID: -1063533329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 718
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f483ab18a38f67e46accaf1a1fd67631
+      internalID: -1694011882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 718
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a145ab4e3a19c64083c97a1d1407e8f
+      internalID: -704066928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 718
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb50315dd5a16b4a9dc513fb90951f0
+      internalID: 970554710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_55
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 718
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc3616bfbf53f94b978a6941eae29cf
+      internalID: 81568016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_56
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 718
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94127cbef6be87a4b81d1830d99b0c10
+      internalID: 751785560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_57
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 718
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e20b6a562df49d45955f96cd53e895b
+      internalID: -680635359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_58
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 718
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d6ccb66438f5149a136f248dd04ecd
+      internalID: 519142878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_59
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 718
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182ba857819c68044928281334f22c57
+      internalID: -238891134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 667
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f948cc44d99c04943bc507d5e10dc270
+      internalID: 1518540767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 667
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c038e42c18a13458abfad42b25256e
+      internalID: 285648510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 667
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ce1c2d69ac2284085a133d5146c2ef
+      internalID: -769194732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 667
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf195ca26adbb84c892a5b8fe3891c1
+      internalID: 920556003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 667
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9422a737c92bc7543b61d58ad3898b92
+      internalID: 727294547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 667
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1730e18afd7493d4cb1b3116518fd282
+      internalID: -169652965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 667
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da2485e5025d5d47b26c6941fef6cfe
+      internalID: -1434793368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 667
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba8069a7237a8d4e8223c3373d38b7b
+      internalID: 1753908974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_68
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 667
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4770b03dacaf3d84c8218b569daa47e1
+      internalID: 1661083083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_69
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 667
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f85b14abc8fd144ab006420187de01
+      internalID: 1996554254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409c33ad0176c9c4581eda37666e1359
+      internalID: -1211764229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_71
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 616
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c93541543451849bfeadf4d744faf5
+      internalID: -1360086779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_72
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 616
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ddc42cf9b711f45852df248f5e7c2f
+      internalID: 244795213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_73
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 616
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc39a57aaa3dc7428a2828390fe5f10
+      internalID: 51067664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_74
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 616
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8c150600c7acb48ad8ab0b935e5022
+      internalID: 1883106444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_75
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 616
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4585eb2531207e747ab1ceaa205e8367
+      internalID: -584920098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_76
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 616
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7603940d5f4ca4780c687afa301501
+      internalID: 2091157354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_77
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 616
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f40973014bdb04e91acb33ad83da34
+      internalID: 1512937240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_78
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 616
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9285bdab2089a4fb4a1e3478a8e07c
+      internalID: -140707462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_79
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 616
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e47831fef835884d9b5564c2b312bfc
+      internalID: 1134720539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 565
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810697bdbc224f040b5c476926422be8
+      internalID: -1839367719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_81
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 565
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22a68b790751284fbfa06ba47f0a2a8
+      internalID: -1576957118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_82
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 565
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3199efd25f066418eb1e7c44e39e3c
+      internalID: -123444580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_83
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 565
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de5e3be47f9e69409d373198dadd659
+      internalID: -139105775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 565
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c406f244460381e4c9a59a5a3d1815da
+      internalID: 1383547431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_85
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 565
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f6c56f790898f448ad7e8f33f9e92c
+      internalID: 1919584559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_86
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 565
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4eb59e7ea34b6b4ab40bb9846042b71
+      internalID: 1127328212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_87
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 565
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00225e5d959b3746a61f5cdb78d2998
+      internalID: 1334215719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_88
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 565
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2a297327b648840a40508f9ce769cc
+      internalID: 1707821265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_89
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 565
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cb9b7c82b09e74b938041fe5ffa9bd
+      internalID: 2011055898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828a7477524b96942a7caa6d58c9d27b
+      internalID: 2010796394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_91
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 514
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8f414e5becd4644b5defe70dcd1af8
+      internalID: -1373070762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_92
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 514
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1617aa178a7e2d4b8b465fa89f19c13
+      internalID: 1754699793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_93
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 514
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c7b26563de6ec478674ec8affce454
+      internalID: 1697238359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_94
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 514
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d63301bfb799e4daccc6a8cfb2f289
+      internalID: 430098280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_95
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 514
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b5bc986d6e2dd40a98b3ed6a165204
+      internalID: -1583879811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_96
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 514
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82c55fe28eaf4949ad24e7979baaa09
+      internalID: -2031328125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_97
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 514
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e6693590a102e41b9ce1c648491eb5
+      internalID: 845903545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_98
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 514
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4896b06ab57d4eb4baac01bbc08a94aa
+      internalID: 1294456420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_99
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 514
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1208ad38092c284eaa57394e933ab09
+      internalID: 1903546002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 463
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5acffa37754694f9246c05c98bfed5
+      internalID: 1686292185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_101
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 463
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09289f052b34c4745909f6c5f8c294db
+      internalID: -539156948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_102
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 463
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9dd69938d22624084f24c7b30e0cda
+      internalID: 2059025003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_103
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 463
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11a8179e0398e04c8573a75980ef512
+      internalID: 371867293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_104
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 463
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b07c40923aa37c4fb30e919cc8d244e
+      internalID: 594162206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_105
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 463
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7d40aaa7f57084eaf0f2ceb9ebaa41
+      internalID: -242887105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_106
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 463
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01acf3b2f09d13440b20b2c63e9ee117
+      internalID: -205596060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_107
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 463
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48be28455876aaf49ab06b73a85377f5
+      internalID: 159611854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_108
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 463
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446fedf1444f0934c81970d0cd07575d
+      internalID: 146925072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_109
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 463
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88469e7f333aed34a820ecb5eeebf7e8
+      internalID: 1180614783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa8aa7e8303f6f49bb4322ca3e978b1
+      internalID: -773051377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_111
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 412
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b0d3425ce0a034fa9dfaf24a4572ba
+      internalID: -1205652495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_112
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 412
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc850fc2a99f444893ef07e69a1b54e
+      internalID: -828009064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_113
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 412
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bece7d96dbbb31b4b979ee2851605ff0
+      internalID: 924237032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_114
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 412
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcefcb2b7c8cf447b135f08ee3758e6
+      internalID: 1224756578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_115
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 412
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b752b6ba50cdad408424c7094bfe299
+      internalID: 1725770096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_116
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 412
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d053438edea1149b651302e40d2f6e
+      internalID: 630317653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_117
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 412
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0612830131fad6c47b10ad06772103a8
+      internalID: 52938135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_118
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 412
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540ad8b29bf7f1f49b8b94e2122acbdf
+      internalID: 18703308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_119
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 412
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4487e6a6d9c86684aae2a16a957686e7
+      internalID: -55414742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b1495ce76ec034d842ceb253a9ce53
+      internalID: -848545812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_121
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 361
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef5459a0e2502344b1b058e7624a0c7
+      internalID: 749983171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_122
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 361
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fbdc7ca79f7084cbf9f8230d4f82f3
+      internalID: 711911683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_123
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 361
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f839162cedeeb4f8e11784cebc8842
+      internalID: 868766718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_124
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 361
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52fa049ac4d4c143b4ebb3864b4d84e
+      internalID: -1861245892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_125
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 361
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7775af9c3d4be49448b1ca5ffe3a95bd
+      internalID: -1497420509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_126
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 361
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1bfe328d8e2114d8655d2ee124031e
+      internalID: -1035579571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_127
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 361
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1efb8f3b0fa4b14e9494a5d4a14b657
+      internalID: -49152017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_128
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 361
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94d20aaec0dc6a469091c848e3be63d
+      internalID: -2025214511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_129
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 361
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5361839d2844f474fa07bf25f66995bd
+      internalID: -1257988681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6422e4bd3db174c8734cdec9de0549
+      internalID: -1450658385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_131
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 310
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74001721601447e48841ba0b83e6adcf
+      internalID: 983687173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_132
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 310
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fa19270d4a6524291d6feaba484720
+      internalID: -1181908788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_133
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 310
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb96e0607d7986c45a208cec7ba95919
+      internalID: -239879170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_134
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 310
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec77a21988778c4c887f2b63cc9bdda
+      internalID: -942588293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_135
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 310
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b919e89f851867143856643fda95841d
+      internalID: -463997227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_136
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 310
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effbecb85fd9ac84b81a2193ea400dbf
+      internalID: 710668642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_137
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 310
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5d1a815a1cd3945b43922f4d49e678
+      internalID: 902798761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_138
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 310
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970380110241bcc4dad4d8ed56284394
+      internalID: 1216105369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_139
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 310
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad87958a45889e428259075dbfff95d
+      internalID: 232593658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 259
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033419b36ebf22b4caa8c806414b0000
+      internalID: -1617045090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_141
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 259
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcf636251f090b49b6ef1b512915983
+      internalID: 157622659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_142
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 259
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370793d1e2d85bc42bc0aa21b6125a1d
+      internalID: -1754567488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_143
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 259
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf69c53b11e2bc479a9084c3c1a66a4
+      internalID: 568334118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_144
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 259
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fbad123f98a7e4e9c5d2589e777d70
+      internalID: 922711999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_145
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 259
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae30107bd46cbb7409ce76f90e73b246
+      internalID: -1916001993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS_Pulse_146
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 259
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3422721331d83041b4cf0ae3db04077
+      internalID: 685855908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BUTTONS_Pulse_0: -2006351602
+      BUTTONS_Pulse_1: 2102606709
+      BUTTONS_Pulse_10: -2034220526
+      BUTTONS_Pulse_100: 1686292185
+      BUTTONS_Pulse_101: -539156948
+      BUTTONS_Pulse_102: 2059025003
+      BUTTONS_Pulse_103: 371867293
+      BUTTONS_Pulse_104: 594162206
+      BUTTONS_Pulse_105: -242887105
+      BUTTONS_Pulse_106: -205596060
+      BUTTONS_Pulse_107: 159611854
+      BUTTONS_Pulse_108: 146925072
+      BUTTONS_Pulse_109: 1180614783
+      BUTTONS_Pulse_11: -1242313651
+      BUTTONS_Pulse_110: -773051377
+      BUTTONS_Pulse_111: -1205652495
+      BUTTONS_Pulse_112: -828009064
+      BUTTONS_Pulse_113: 924237032
+      BUTTONS_Pulse_114: 1224756578
+      BUTTONS_Pulse_115: 1725770096
+      BUTTONS_Pulse_116: 630317653
+      BUTTONS_Pulse_117: 52938135
+      BUTTONS_Pulse_118: 18703308
+      BUTTONS_Pulse_119: -55414742
+      BUTTONS_Pulse_12: -79121211
+      BUTTONS_Pulse_120: -848545812
+      BUTTONS_Pulse_121: 749983171
+      BUTTONS_Pulse_122: 711911683
+      BUTTONS_Pulse_123: 868766718
+      BUTTONS_Pulse_124: -1861245892
+      BUTTONS_Pulse_125: -1497420509
+      BUTTONS_Pulse_126: -1035579571
+      BUTTONS_Pulse_127: -49152017
+      BUTTONS_Pulse_128: -2025214511
+      BUTTONS_Pulse_129: -1257988681
+      BUTTONS_Pulse_13: -345887201
+      BUTTONS_Pulse_130: -1450658385
+      BUTTONS_Pulse_131: 983687173
+      BUTTONS_Pulse_132: -1181908788
+      BUTTONS_Pulse_133: -239879170
+      BUTTONS_Pulse_134: -942588293
+      BUTTONS_Pulse_135: -463997227
+      BUTTONS_Pulse_136: 710668642
+      BUTTONS_Pulse_137: 902798761
+      BUTTONS_Pulse_138: 1216105369
+      BUTTONS_Pulse_139: 232593658
+      BUTTONS_Pulse_14: -595100995
+      BUTTONS_Pulse_140: -1617045090
+      BUTTONS_Pulse_141: 157622659
+      BUTTONS_Pulse_142: -1754567488
+      BUTTONS_Pulse_143: 568334118
+      BUTTONS_Pulse_144: 922711999
+      BUTTONS_Pulse_145: -1916001993
+      BUTTONS_Pulse_146: 685855908
+      BUTTONS_Pulse_15: -1926952356
+      BUTTONS_Pulse_16: -1885836058
+      BUTTONS_Pulse_17: 1528953714
+      BUTTONS_Pulse_18: -33130481
+      BUTTONS_Pulse_19: 918065234
+      BUTTONS_Pulse_2: 1219402600
+      BUTTONS_Pulse_20: 630901678
+      BUTTONS_Pulse_21: 601355933
+      BUTTONS_Pulse_22: -516940585
+      BUTTONS_Pulse_23: -189510777
+      BUTTONS_Pulse_24: 167846643
+      BUTTONS_Pulse_25: -1975032969
+      BUTTONS_Pulse_26: -1642010362
+      BUTTONS_Pulse_27: -273579367
+      BUTTONS_Pulse_28: -428363193
+      BUTTONS_Pulse_29: -503922994
+      BUTTONS_Pulse_3: 1601722018
+      BUTTONS_Pulse_30: -1797451880
+      BUTTONS_Pulse_31: 1636774826
+      BUTTONS_Pulse_32: -494538840
+      BUTTONS_Pulse_33: -364364122
+      BUTTONS_Pulse_34: 299766299
+      BUTTONS_Pulse_35: -1737847723
+      BUTTONS_Pulse_36: 2146258564
+      BUTTONS_Pulse_37: -1381200914
+      BUTTONS_Pulse_38: -788005449
+      BUTTONS_Pulse_39: 1473745993
+      BUTTONS_Pulse_4: 862329596
+      BUTTONS_Pulse_40: 695431735
+      BUTTONS_Pulse_41: 709734566
+      BUTTONS_Pulse_42: -10910677
+      BUTTONS_Pulse_43: -191346468
+      BUTTONS_Pulse_44: 1639584107
+      BUTTONS_Pulse_45: -1538396985
+      BUTTONS_Pulse_46: 554986249
+      BUTTONS_Pulse_47: 719280823
+      BUTTONS_Pulse_48: 1595114577
+      BUTTONS_Pulse_49: 1130824614
+      BUTTONS_Pulse_5: -1132423183
+      BUTTONS_Pulse_50: -991315678
+      BUTTONS_Pulse_51: -1063533329
+      BUTTONS_Pulse_52: -1694011882
+      BUTTONS_Pulse_53: -704066928
+      BUTTONS_Pulse_54: 970554710
+      BUTTONS_Pulse_55: 81568016
+      BUTTONS_Pulse_56: 751785560
+      BUTTONS_Pulse_57: -680635359
+      BUTTONS_Pulse_58: 519142878
+      BUTTONS_Pulse_59: -238891134
+      BUTTONS_Pulse_6: 131588946
+      BUTTONS_Pulse_60: 1518540767
+      BUTTONS_Pulse_61: 285648510
+      BUTTONS_Pulse_62: -769194732
+      BUTTONS_Pulse_63: 920556003
+      BUTTONS_Pulse_64: 727294547
+      BUTTONS_Pulse_65: -169652965
+      BUTTONS_Pulse_66: -1434793368
+      BUTTONS_Pulse_67: 1753908974
+      BUTTONS_Pulse_68: 1661083083
+      BUTTONS_Pulse_69: 1996554254
+      BUTTONS_Pulse_7: 1805759449
+      BUTTONS_Pulse_70: -1211764229
+      BUTTONS_Pulse_71: -1360086779
+      BUTTONS_Pulse_72: 244795213
+      BUTTONS_Pulse_73: 51067664
+      BUTTONS_Pulse_74: 1883106444
+      BUTTONS_Pulse_75: -584920098
+      BUTTONS_Pulse_76: 2091157354
+      BUTTONS_Pulse_77: 1512937240
+      BUTTONS_Pulse_78: -140707462
+      BUTTONS_Pulse_79: 1134720539
+      BUTTONS_Pulse_8: 1245575980
+      BUTTONS_Pulse_80: -1839367719
+      BUTTONS_Pulse_81: -1576957118
+      BUTTONS_Pulse_82: -123444580
+      BUTTONS_Pulse_83: -139105775
+      BUTTONS_Pulse_84: 1383547431
+      BUTTONS_Pulse_85: 1919584559
+      BUTTONS_Pulse_86: 1127328212
+      BUTTONS_Pulse_87: 1334215719
+      BUTTONS_Pulse_88: 1707821265
+      BUTTONS_Pulse_89: 2011055898
+      BUTTONS_Pulse_9: -1166593359
+      BUTTONS_Pulse_90: 2010796394
+      BUTTONS_Pulse_91: -1373070762
+      BUTTONS_Pulse_92: 1754699793
+      BUTTONS_Pulse_93: 1697238359
+      BUTTONS_Pulse_94: 430098280
+      BUTTONS_Pulse_95: -1583879811
+      BUTTONS_Pulse_96: -2031328125
+      BUTTONS_Pulse_97: 845903545
+      BUTTONS_Pulse_98: 1294456420
+      BUTTONS_Pulse_99: 1903546002
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
