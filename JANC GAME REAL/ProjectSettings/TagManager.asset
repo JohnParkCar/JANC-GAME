@@ -8,13 +8,13 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - player
   - Water
   - UI
   - Ground
   - Walls
   - Background
-  - 
+  - backdrop
   - 
   - 
   - 
@@ -41,6 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: backdrop
+    uniqueID: 1954997705
+    locked: 0
   - name: Background
     uniqueID: 4074730513
     locked: 0
@@ -52,4 +55,7 @@ TagManager:
     locked: 0
   - name: Water
     uniqueID: 3450381931
+    locked: 0
+  - name: player
+    uniqueID: 3297393145
     locked: 0
