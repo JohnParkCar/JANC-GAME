@@ -101,7 +101,7 @@ public class MovingAround : MonoBehaviour
     void OnCollisionEnter2D(Collision2D collision)
     {
         // Detect if touching a wall
-        if (collision.gameObject.CompareTag("Walls"))
+        if (collision.gameObject.layer == 7)
         {
             isTouchingWall = true;
         }
@@ -112,7 +112,7 @@ public class MovingAround : MonoBehaviour
         float hor = Input.GetAxis("Horizontal");
         float vert = Input.GetAxis("Vertical");
         // Detect if no longer touching a wall
-        if (collision.gameObject.CompareTag("Walls"))
+        if (collision.gameObject.layer == 7)
         {
             isTouchingWall = false;
         }
