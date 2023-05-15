@@ -28,6 +28,19 @@ public class MovingAround : MonoBehaviour
 
     void Update()
     {
+        LayerMask ledgeMask = LayerMask.GetMask ("Wall");
+
+        // check on ground
+        RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector3.down, 2.8f, ledgeMask);
+
+        Debug.DrawRay (transform.position, Vector3.down * 2.8f);
+
+        isJumping = true;
+
+        if (hit.collider != null) {
+            isJumping = false;
+        }
+
         // Walk
         moveX = Input.GetAxis("Horizontal");
         rb.velocity = new Vector2(moveX * (isSprinting ? sprintSpeed : walkSpeed), rb.velocity.y);
